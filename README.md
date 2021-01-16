@@ -1,6 +1,6 @@
 # Rolo's Wallpaper Collection
 
-![Screenshots](screenshot.jpg "Screenshots")
+![Screenshots](screenshots.jpg "Screenshots")
 
 I've collected a lot of wallpapers and sometimes a don't even remember where I got them, so I decided to put them the here.
 

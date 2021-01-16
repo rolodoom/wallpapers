@@ -1,5 +1,7 @@
 # Rolo's Wallpaper Collection
 
+![Screenshot](.screenshot/screenshot.jpg "Screenshot")
+
 I've collected a lot of wallpapers and sometimes a don't even remember where I got them, so I decided to put them the here.
 
 ## Origin?
